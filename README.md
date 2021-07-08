@@ -12,7 +12,7 @@ Clone the sample repository using the following command and navigate into the sa
 
 git clone https://github.com/ayhansevimli/PythonDjangoProj001
 
-* Navigate into in the python-docs-hello-world folder:
+* Navigate into in the PythonDjangoProj001 folder:
 
 cd PythonDjangoProj001
 
