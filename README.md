@@ -24,7 +24,15 @@ py -3 -m venv .venv
 
 pip install -r requirements.txt
 
-* python manage.py runserver
+* Creating a project
+
+django-admin startproject mysite
+
+* The development server
+
+cd mysite
+
+py manage.py runserver
 
 * Open a web browser and go to the sample app at http://localhost:8000/. The app displays the message Hello, World!.
 
